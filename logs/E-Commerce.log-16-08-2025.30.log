@@ -1,0 +1,7 @@
+2025-08-16T13:15:21.807+05:30  INFO 30056 --- [E-Commerce] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-16T13:15:21.888+05:30  INFO 30056 --- [E-Commerce] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final
+2025-08-16T13:15:21.944+05:30  INFO 30056 --- [E-Commerce] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-08-16T13:15:22.293+05:30  INFO 30056 --- [E-Commerce] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-08-16T13:15:22.330+05:30  INFO 30056 --- [E-Commerce] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-08-16T13:15:22.660+05:30  INFO 30056 --- [E-Commerce] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b362f1
+2025-08-16T13:15:22.663+05:30  INFO 30056 --- [E-Commerce] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.

@@ -1,0 +1,5 @@
+2025-08-16T12:53:44.944+05:30  INFO 19656 --- [E-Commerce] [RMI TCP Connection(19)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T12:53:45.003+05:30  INFO 19656 --- [E-Commerce] [RMI TCP Connection(19)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-16T12:53:45.086+05:30  INFO 19656 --- [E-Commerce] [RMI TCP Connection(19)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-16T12:53:50.650+05:30  INFO 17596 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Starting ECommerceApplication using Java 21.0.6 with PID 17596 (C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce\target\classes started by HP in C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce)
+2025-08-16T12:53:50.654+05:30  INFO 17596 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : No active profile set, falling back to 1 default profile: "default"

@@ -1,0 +1,6 @@
+2025-08-16T13:03:07.877+05:30  INFO 17596 --- [E-Commerce] [RMI TCP Connection(11)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-16T13:03:07.902+05:30  INFO 17596 --- [E-Commerce] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-16T13:03:07.918+05:30  INFO 17596 --- [E-Commerce] [RMI TCP Connection(11)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T13:03:07.944+05:30  INFO 17596 --- [E-Commerce] [RMI TCP Connection(11)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-16T13:03:07.980+05:30  INFO 17596 --- [E-Commerce] [RMI TCP Connection(11)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-16T13:03:11.413+05:30  INFO 30996 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Starting ECommerceApplication using Java 21.0.6 with PID 30996 (C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce\target\classes started by HP in C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce)

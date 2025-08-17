@@ -1,0 +1,7 @@
+2025-08-16T13:06:59.666+05:30  INFO 14244 --- [E-Commerce] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-16T13:06:59.753+05:30  INFO 14244 --- [E-Commerce] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-16T13:06:59.753+05:30  INFO 14244 --- [E-Commerce] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1139 ms
+2025-08-16T13:06:59.908+05:30  INFO 14244 --- [E-Commerce] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-16T13:06:59.971+05:30  INFO 14244 --- [E-Commerce] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final
+2025-08-16T13:07:00.035+05:30  INFO 14244 --- [E-Commerce] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-08-16T13:07:00.489+05:30  INFO 14244 --- [E-Commerce] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer

@@ -1,0 +1,4 @@
+2025-08-16T21:14:32.101+05:30  INFO 7592 --- [E-Commerce] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-16T21:14:32.169+05:30  INFO 7592 --- [E-Commerce] [RMI TCP Connection(23)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T21:14:32.225+05:30  INFO 7592 --- [E-Commerce] [RMI TCP Connection(23)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-16T21:14:32.240+05:30  INFO 7592 --- [E-Commerce] [RMI TCP Connection(23)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

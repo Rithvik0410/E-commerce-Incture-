@@ -1,0 +1,6 @@
+2025-08-16T12:37:02.394+05:30  INFO 16080 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Starting ECommerceApplication using Java 21.0.6 with PID 16080 (C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce\target\classes started by HP in C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce)
+2025-08-16T12:37:02.396+05:30  INFO 16080 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-08-16T12:37:03.271+05:30  INFO 16080 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-16T12:37:03.345+05:30  INFO 16080 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 60 ms. Found 8 JPA repository interfaces.
+2025-08-16T12:37:03.789+05:30  INFO 16080 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-16T12:37:03.812+05:30  INFO 16080 --- [E-Commerce] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]

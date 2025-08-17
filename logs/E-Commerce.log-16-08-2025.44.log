@@ -1,0 +1,6 @@
+2025-08-16T18:20:18.142+05:30  WARN 33348 --- [E-Commerce] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-16T18:20:18.684+05:30  INFO 33348 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-16T18:20:18.693+05:30  INFO 33348 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Started ECommerceApplication in 5.974 seconds (process running for 6.739)
+2025-08-16T18:21:01.644+05:30  INFO 33348 --- [E-Commerce] [RMI TCP Connection(3)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-16T18:21:01.671+05:30  INFO 33348 --- [E-Commerce] [RMI TCP Connection(3)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-16T18:21:01.687+05:30  INFO 33348 --- [E-Commerce] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete

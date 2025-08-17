@@ -1,0 +1,6 @@
+2025-08-16T13:15:24.318+05:30  INFO 30056 --- [E-Commerce] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T13:15:24.539+05:30  WARN 30056 --- [E-Commerce] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-16T13:15:25.016+05:30  INFO 30056 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-16T13:15:25.024+05:30  INFO 30056 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Started ECommerceApplication in 4.951 seconds (process running for 5.439)
+2025-08-16T13:15:33.488+05:30  INFO 30056 --- [E-Commerce] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T13:15:33.488+05:30  INFO 30056 --- [E-Commerce] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'

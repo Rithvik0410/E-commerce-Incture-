@@ -1,0 +1,6 @@
+2025-08-16T19:13:32.814+05:30  INFO 29388 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-16T19:13:32.823+05:30  INFO 29388 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Started ECommerceApplication in 4.654 seconds (process running for 5.397)
+2025-08-16T19:16:39.327+05:30  INFO 29388 --- [E-Commerce] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T19:16:39.329+05:30  INFO 29388 --- [E-Commerce] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-16T19:16:39.335+05:30  INFO 29388 --- [E-Commerce] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2025-08-16T19:17:27.529+05:30  WARN 29388 --- [E-Commerce] [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Document nesting depth (1001) exceeds the maximum allowed (1000, from `StreamWriteConstraints.getMaxNestingDepth()`)

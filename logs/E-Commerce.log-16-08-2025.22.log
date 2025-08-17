@@ -1,0 +1,6 @@
+2025-08-16T13:06:50.089+05:30  INFO 30996 --- [E-Commerce] [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-16T13:06:50.100+05:30  INFO 30996 --- [E-Commerce] [RMI TCP Connection(7)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-16T13:06:50.108+05:30  INFO 30996 --- [E-Commerce] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-16T13:06:50.114+05:30  INFO 30996 --- [E-Commerce] [RMI TCP Connection(7)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T13:06:50.117+05:30  INFO 30996 --- [E-Commerce] [RMI TCP Connection(7)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-16T13:06:50.129+05:30  INFO 30996 --- [E-Commerce] [RMI TCP Connection(7)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

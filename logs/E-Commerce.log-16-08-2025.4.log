@@ -1,0 +1,24 @@
+2025-08-16T12:37:07.412+05:30  INFO 16080 --- [E-Commerce] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-16T12:37:07.425+05:30  INFO 16080 --- [E-Commerce] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-16T12:37:07.428+05:30  INFO 16080 --- [E-Commerce] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2025-08-16T12:37:07.444+05:30  INFO 16080 --- [E-Commerce] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-08-16T12:37:07.466+05:30 ERROR 16080 --- [E-Commerce] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field productService in com.demo.spring.controller.ProductController required a bean of type 'com.demo.spring.service.ProductService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.demo.spring.service.ProductService' in your configuration.
+

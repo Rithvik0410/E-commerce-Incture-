@@ -1,0 +1,6 @@
+2025-08-16T18:21:24.537+05:30  INFO 19404 --- [E-Commerce] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T18:21:26.961+05:30  WARN 19404 --- [E-Commerce] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-16T18:21:29.237+05:30  INFO 19404 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-16T18:21:29.258+05:30  INFO 19404 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Started ECommerceApplication in 20.757 seconds (process running for 23.631)
+2025-08-16T18:22:41.192+05:30  INFO 19404 --- [E-Commerce] [http-nio-8080-exec-4] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T18:22:41.192+05:30  INFO 19404 --- [E-Commerce] [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'

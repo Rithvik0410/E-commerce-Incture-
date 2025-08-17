@@ -1,0 +1,6 @@
+2025-08-16T13:07:35.023+05:30  INFO 14244 --- [E-Commerce] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T13:07:35.027+05:30  INFO 14244 --- [E-Commerce] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-16T13:07:35.028+05:30  INFO 14244 --- [E-Commerce] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-08-16T13:15:17.132+05:30  INFO 14244 --- [E-Commerce] [RMI TCP Connection(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-16T13:15:17.193+05:30  INFO 14244 --- [E-Commerce] [RMI TCP Connection(12)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-16T13:15:17.213+05:30  INFO 14244 --- [E-Commerce] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete

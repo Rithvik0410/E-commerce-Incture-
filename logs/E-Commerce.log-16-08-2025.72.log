@@ -1,0 +1,7 @@
+2025-08-16T19:13:29.812+05:30  INFO 29388 --- [E-Commerce] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-16T19:13:29.822+05:30  INFO 29388 --- [E-Commerce] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-16T19:13:29.882+05:30  INFO 29388 --- [E-Commerce] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-16T19:13:29.882+05:30  INFO 29388 --- [E-Commerce] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1270 ms
+2025-08-16T19:13:30.045+05:30  INFO 29388 --- [E-Commerce] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-16T19:13:30.110+05:30  INFO 29388 --- [E-Commerce] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final
+2025-08-16T19:13:30.151+05:30  INFO 29388 --- [E-Commerce] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled

@@ -1,0 +1,5 @@
+2025-08-16T12:37:34.232+05:30  INFO 19656 --- [E-Commerce] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-08-16T12:37:34.468+05:30  INFO 19656 --- [E-Commerce] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T12:37:34.675+05:30  WARN 19656 --- [E-Commerce] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-16T12:37:35.300+05:30  INFO 19656 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-16T12:37:35.305+05:30  INFO 19656 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Started ECommerceApplication in 4.481 seconds (process running for 5.236)

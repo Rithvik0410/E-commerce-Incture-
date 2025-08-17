@@ -1,0 +1,6 @@
+2025-08-16T13:23:52.500+05:30  INFO 30056 --- [E-Commerce] [RMI TCP Connection(12)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-16T13:23:56.989+05:30  INFO 25952 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Starting ECommerceApplication using Java 21.0.6 with PID 25952 (C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce\target\classes started by HP in C:\Users\HP\OneDrive\Desktop\Incture\E-Commerce)
+2025-08-16T13:23:56.992+05:30  INFO 25952 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-08-16T13:23:57.869+05:30  INFO 25952 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-16T13:23:57.953+05:30  INFO 25952 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 67 ms. Found 8 JPA repository interfaces.
+2025-08-16T13:23:58.454+05:30  INFO 25952 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)

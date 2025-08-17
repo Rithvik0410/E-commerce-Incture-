@@ -1,0 +1,7 @@
+2025-08-16T18:20:14.501+05:30  INFO 33348 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-16T18:20:14.526+05:30  INFO 33348 --- [E-Commerce] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-16T18:20:14.526+05:30  INFO 33348 --- [E-Commerce] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-16T18:20:14.582+05:30  INFO 33348 --- [E-Commerce] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-16T18:20:14.583+05:30  INFO 33348 --- [E-Commerce] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1324 ms
+2025-08-16T18:20:14.766+05:30  INFO 33348 --- [E-Commerce] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-16T18:20:14.850+05:30  INFO 33348 --- [E-Commerce] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final

@@ -1,0 +1,7 @@
+2025-08-16T13:15:20.874+05:30  INFO 30056 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-16T13:15:20.997+05:30  INFO 30056 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 108 ms. Found 8 JPA repository interfaces.
+2025-08-16T13:15:21.528+05:30  INFO 30056 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-16T13:15:21.545+05:30  INFO 30056 --- [E-Commerce] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-16T13:15:21.545+05:30  INFO 30056 --- [E-Commerce] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-16T13:15:21.613+05:30  INFO 30056 --- [E-Commerce] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-16T13:15:21.614+05:30  INFO 30056 --- [E-Commerce] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1175 ms

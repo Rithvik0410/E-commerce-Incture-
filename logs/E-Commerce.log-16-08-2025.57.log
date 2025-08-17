@@ -1,0 +1,6 @@
+2025-08-16T18:38:52.767+05:30  INFO 14532 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-16T18:38:52.781+05:30  INFO 14532 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : Started ECommerceApplication in 4.66 seconds (process running for 5.446)
+2025-08-16T18:39:06.093+05:30  INFO 14532 --- [E-Commerce] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T18:39:06.094+05:30  INFO 14532 --- [E-Commerce] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-16T18:39:06.096+05:30  INFO 14532 --- [E-Commerce] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-08-16T18:39:06.136+05:30  WARN 14532 --- [E-Commerce] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]

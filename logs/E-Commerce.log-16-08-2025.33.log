@@ -1,0 +1,6 @@
+2025-08-16T13:15:33.490+05:30  INFO 30056 --- [E-Commerce] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-08-16T13:23:51.873+05:30  INFO 30056 --- [E-Commerce] [RMI TCP Connection(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-16T13:23:52.150+05:30  INFO 30056 --- [E-Commerce] [RMI TCP Connection(12)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-16T13:23:52.215+05:30  INFO 30056 --- [E-Commerce] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-16T13:23:52.284+05:30  INFO 30056 --- [E-Commerce] [RMI TCP Connection(12)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T13:23:52.379+05:30  INFO 30056 --- [E-Commerce] [RMI TCP Connection(12)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...

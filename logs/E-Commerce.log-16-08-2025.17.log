@@ -1,0 +1,7 @@
+2025-08-16T13:03:11.414+05:30  INFO 30996 --- [E-Commerce] [main] com.demo.spring.ECommerceApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-08-16T13:03:12.226+05:30  INFO 30996 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-16T13:03:12.315+05:30  INFO 30996 --- [E-Commerce] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 76 ms. Found 8 JPA repository interfaces.
+2025-08-16T13:03:12.844+05:30  INFO 30996 --- [E-Commerce] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-16T13:03:12.865+05:30  INFO 30996 --- [E-Commerce] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-16T13:03:12.866+05:30  INFO 30996 --- [E-Commerce] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-16T13:03:12.959+05:30  INFO 30996 --- [E-Commerce] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext

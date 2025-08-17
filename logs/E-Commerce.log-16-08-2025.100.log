@@ -1,0 +1,6 @@
+2025-08-16T19:35:13.063+05:30  INFO 7592 --- [E-Commerce] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T19:35:13.069+05:30  INFO 7592 --- [E-Commerce] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-16T19:35:13.072+05:30  INFO 7592 --- [E-Commerce] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-08-16T20:56:48.065+05:30  WARN 7592 --- [E-Commerce] [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h21m12s282ms606µs300ns).
+2025-08-16T21:14:31.889+05:30  INFO 7592 --- [E-Commerce] [RMI TCP Connection(23)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-16T21:14:32.056+05:30  INFO 7592 --- [E-Commerce] [RMI TCP Connection(23)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
